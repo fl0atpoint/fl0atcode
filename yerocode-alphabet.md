@@ -57,7 +57,6 @@ chars used:
 ## spacing & punctuation
 | meaning | yerocode |
 |--------|----------|
-| space |   |
 | period | ||| |
 | comma | /// |
 | question | ??? (optional, not strict) |
