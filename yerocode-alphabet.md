@@ -13,6 +13,9 @@ chars used:
 - readable once you memorize like 10 rules
 
 ---
+> [!WARNING]
+> some of the alphabet doesn't render on github's preview (at least for my end). if this happens for you too, download it and view it from, like, VSCode or smth, somewhere where it doesn't properly render Markdown
+---
 
 ## alphabet
 
