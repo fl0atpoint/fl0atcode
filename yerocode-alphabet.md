@@ -1,4 +1,4 @@
-# yerocode
+# fl0atcode
 remaking the alphabet to make it look like spammed text™
 
 chars used:
@@ -58,7 +58,7 @@ chars used:
 ---
 
 ## spacing & punctuation
-| meaning | yerocode |
+| meaning | fl0atcode |
 |--------|----------|
 | period | ||| |
 | comma | /// |
@@ -73,7 +73,7 @@ chars used:
 hello world
 ```
 
-**yerocode:**
+**fl0atcode:**
 ```
 -^//* //*&&/$
 ```
