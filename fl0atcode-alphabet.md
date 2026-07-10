@@ -3,77 +3,92 @@ remaking the alphabet to make it look like spammed text™
 
 chars used:
 ```
-~ ! @ # $ % ^ & * - + = | \\\ /
+% / < > : ! - + = #
 ```
 
----
-
-- every english letter maps to exactly one symbol or symbol-pair
-- same length as normal text (mostly)
-- readable once you memorize like 10 rules
-
----
-> [!WARNING]
-> some of the alphabet doesn't render on github's preview (at least for my end). if this happens for you too, download it and view it from, like, VSCode or smth, somewhere where it doesn't properly render Markdown
 ---
 
 ## alphabet
 
 ### vowels (easy + common)
-| letter | yerocode |
-|-------|----------|
-| a | ~ |
-| e | ^ |
-| i | ! |
-| o | * |
-| u | + |
+> [!TIP]
+> vowels always start with "%"!
 
+| letter | yerocode |
+|-|-|
+| a | %< |
+| e | %> |
+| i | %! |
+| o | %: |
+| u | %+ |
+| y | %= |
 ---
 
 ### consonants
+> [!TIP]
+> consonants always start with "/"
+
 | letter | yerocode |
-|-------|----------|
-| b | @ |
-| c | # |
-| d | $ |
-| f | % |
-| g | & |
-| h | - |
-| j | = |
-| k | | |
-| l | / |
-| m | @@ |
-| n | ## |
-| p | $$ |
-| q | %% |
-| r | && |
-| s | -- |
-| t | == |
-| v | || |
-| w | // |
-| x | @# |
-| y | $% |
-| z | &* |
+|-|-|
+| b | /< |
+| c | /> |
+| d | /: |
+| f | /! |
+| g | /- |
+| h | /<< |
+| j | /:+ |
+| k | /+> |
+| l | /<> |
+| m | /% |
+| n | /%> |
+| p | /<+ |
+| q | /== |
+| r | /:> |
+| s | /%= |
+| t | /!> |
+| v | /+< |
+| w | /%% |
+| x | /-> |
+| z | /:= |
 
 ---
 
-## spacing & punctuation
+## punctuation
 | meaning | fl0atcode |
-|--------|----------|
-| period | ||| |
-| comma | /// |
-| question | ??? (optional, not strict) |
+|-|-|
+| ? | ?? |
+| ! | !! |
+| + | +++ |
+| = | === |
 
 ---
 
-## example
+## numbers
+| number | fl0atcode | 
+| - | -|
+| 1 | #< |
+| 2 | #> |
+| 3 | #: |
+| 4 | #! |
+| 5 | #- |
+| 6 | #+ |
+| 7 | #% |
+| 8 | #/ |
+| 9 | #<> |
+| 0 | #= |
+
+---
+
+> [!IMPORTANT]
+> to add some readability, you can optionally add a "." after every single letter you put. if you are writing on physical paper, make a small circle, like this --> 。
+## examples
 
 **english:**
 ```
-hello world
+fl0atpoint
 ```
 
 **fl0atcode:**
 ```
--^//* //*&&/$
+/!./<>.#=.%<./!>./<+.%:.%!./%>./!>
 ```
