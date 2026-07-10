@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-# Uses the MIT license; https://github.com/yeroc5311/yerocode/blob/main/LICENSE
+# Uses the MIT license; https://github.com/fl0atpoint/fl0atcode/blob/main/LICENSE
 
 import sys
 import argparse
 
-# yerocode (lite) mapping
+# fl0atcode (lite) mapping
 ENCODE_MAP = {
     # vowels
     'a': '~',
@@ -87,12 +87,12 @@ def decode(text: str) -> str:
 
 def main():
     parser = argparse.ArgumentParser(
-        description='yerocode cli - remaking the alphabet to make it look like spammed text(tm)'
+        description='fl0atcode cli - remaking the alphabet to make it look like spammed text(tm)'
     )
     parser.add_argument(
         'mode',
         choices=['encode', 'decode'],
-        help='encode english to yerocode or decode it back'
+        help='encode english to fl0atcode or decode it back'
     )
     parser.add_argument(
         'text',
