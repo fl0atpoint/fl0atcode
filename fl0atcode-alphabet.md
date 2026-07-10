@@ -64,6 +64,9 @@ chars used:
 ---
 
 ## numbers
+> [!TIP]
+> numbers start with "#"
+
 | number | fl0atcode | 
 | - | -|
 | 1 | #< |
